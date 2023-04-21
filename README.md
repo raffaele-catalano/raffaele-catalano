@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning `HTML`. `CSS`, `JS`, `VUE`
 - 🔭 Soon I will start learning `PHP`, `Laravel`, `React`, `NodeJS`
 
+![](https://komarev.com/ghpvc/?username=raffaele-catalano&color=yellow&style=plastic&label=PROFILE+VIEWS)
+
 <!--
 **raffaele-catalano/raffaele-catalano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
