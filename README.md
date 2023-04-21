@@ -1,8 +1,8 @@
 <h2 align="center"> Hello there! 👋 </h2>
 
 🇮🇹 I'm an Italian⚡Full Stack Web Developer Wannabe  
-🌱 I’m currently learning `HTML`. `CSS`, `JS`, `VUE`  
-🔭 Soon I will start learning `PHP`, `Laravel`, `React`, `NodeJS`
+🌱 I’m currently learning `HTML` - `CSS` - `JS` - `VUE`  
+🔭 Soon I will start learning `PHP` - `Laravel` - `React` - `NodeJS`
 
 ![](https://komarev.com/ghpvc/?username=raffaele-catalano&color=blue&style=plastic&label=PROFILE+VIEWS)
 
