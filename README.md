@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=raffaele-catalano&&style=flat-square](https://komarev.com/ghpvc/?username=raffaele-catalano&color=blue&style=plastic&label=PROFILE+VIEWS" align="center" />
+<img src="https://komarev.com/ghpvc/?username=raffaele-catalano&color=blue&style=plastic&label=PROFILE+VIEWS" align="center" />
 </div>
 
 <br>
