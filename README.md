@@ -4,11 +4,17 @@
 🌱 I’m currently learning `HTML` - `CSS` - `JS` - `VUE`  
 🔭 Soon I will start learning `PHP` - `Laravel` - `React` - `NodeJS`
 
+<br>
+
 <div align="center">
-<img src="[https://komarev.com/ghpvc/?username=thomasync&&style=flat-square](https://komarev.com/ghpvc/?username=raffaele-catalano&color=blue&style=plastic&label=PROFILE+VIEWS)" align="center" />
+<img src="https://komarev.com/ghpvc/?username=raffaele-catalano&&style=flat-square](https://komarev.com/ghpvc/?username=raffaele-catalano&color=blue&style=plastic&label=PROFILE+VIEWS)" align="center" />
 </div>
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-catalano&show_icons=true&theme=dark&locale=en" alt="raffaele-catalano-stats" /></p>
+<br>
+
+<div align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-catalano&show_icons=true&theme=dark&locale=en" alt="raffaele-catalano-stats" />
+</div>
 
 
 <!-- <div align="center"> -->
