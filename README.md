@@ -2,9 +2,9 @@
 
 <br>
 
-#### 🇮🇹 I'm an Italian⚡Full Stack Web Developer Wannabe  
-#### 🌱 I’m currently learning `HTML` - `CSS` - `JS` - `VUE`  
-#### 🔭 Soon I will start learning `PHP` - `Laravel` - `React` - `NodeJS`
+🇮🇹 I'm an Italian⚡Full Stack Web Developer Wannabe  
+🌱 I’m currently learning `HTML` - `CSS` - `JS` - `VUE`  
+🔭 Soon I will start learning `PHP` - `Laravel` - `React` - `NodeJS`
 
 <br>
 
