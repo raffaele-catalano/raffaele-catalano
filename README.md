@@ -1,25 +1,28 @@
 <h2 align="center"> Hello there! 👋 </h2>
 
-🇮🇹 I'm an Italian⚡Full Stack Web Developer Wannabe  
-🌱 I’m currently learning `HTML` - `CSS` - `JS` - `VUE`  
-🔭 Soon I will start learning `PHP` - `Laravel` - `React` - `NodeJS`
+<br>
+
+#### 🇮🇹 I'm an Italian⚡Full Stack Web Developer Wannabe  
+#### 🌱 I’m currently learning `HTML` - `CSS` - `JS` - `VUE`  
+#### 🔭 Soon I will start learning `PHP` - `Laravel` - `React` - `NodeJS`
 
 <br>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=raffaele-catalano&color=blue&style=plastic&label=PROFILE+VIEWS" align="center" />
+<img src="https://komarev.com/ghpvc/?username=raffaele-catalano&color=blue&style=plastic&label=PROFILE+VIEWS" alt="rc-profile-view" title="rc-profile-view" align="center" />
 </div>
 
 <br>
 
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-catalano&show_icons=true&theme=dark&locale=en" alt="raffaele-catalano-stats" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-catalano&show_icons=true&theme=dark&locale=en&hide_border=true" alt="rc-most-used-languages" title="rc-most-used-languages" />
 </div>
 
+<br>
 
-<!-- <div align="center"> -->
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=raffaele-catalano&show_icons=true&count_private=true&hide_border=true" align="center" /> -->
-<!-- </div> -->
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=raffaele-catalano&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" alt="rc-stats" title="rc-stats" />
+</div>
 
 
 <!--
