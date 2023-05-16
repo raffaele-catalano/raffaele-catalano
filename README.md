@@ -3,8 +3,8 @@
 <br>
 
 🇮🇹 I'm an Italian⚡Full Stack Web Developer Wannabe  
-🌱 I’m currently learning `HTML` - `CSS` - `JS` - `VUE` - `Vite` - `SCSS` - `Node`  
-🔭 Soon I will start learning `PHP` - `Laravel` - `mySQL` 
+🌱 I’m currently learning `HTML` - `CSS` - `JS` - `VUE` - `Vite` - `SCSS` - `Node` - `PHP`  
+🔭 Soon I will start learning  - `Laravel` - `mySQL`  and more...
 
 <br>
 
