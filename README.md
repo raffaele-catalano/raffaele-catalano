@@ -24,6 +24,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=raffaele-catalano&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" alt="rc-stats" title="rc-stats" />
 </div>
 
+<h3 align="right">Connect with me:</h3>
+<p align="right">
+<a href="https://www.linkedin.com/in/raffaele-catalano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francesco murro" height="20" width="30" /></a>
+</p>
 
 <!--
 **raffaele-catalano/raffaele-catalano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
