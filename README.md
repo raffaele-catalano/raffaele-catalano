@@ -2,9 +2,9 @@
 
 <br>
 
-🇮🇹 I'm an Italian⚡Full Stack Web Developer Wannabe  
+🇮🇹 I'm an Italian⚡Jr. Full Stack Web Developer  
 🌱 I’m currently learning `HTML` - `CSS` - `JS` - `VUE` - `Vite` - `SCSS` - `PHP` - `Laravel` - `mySQL`   
-🔭 Soon I will start learning `Python` - `Typescript` - `NodeJs` - `GraphQL`
+🔭 Soon I will start learning `Python` - `Typescript` - `NodeJs` - `Angular` - `GraphQL`
 
 <br>
 
