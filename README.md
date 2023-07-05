@@ -8,19 +8,19 @@
 
 <br>
 
-<div align="left">
+<div align="center">
 <img src="https://komarev.com/ghpvc/?username=raffaele-catalano&color=blue&style=plastic&label=PROFILE+VIEWS" alt="rc-profile-view" title="rc-profile-view" align="center" />
 </div>
 
 <br>
 
-<div align="center">
+<div align="left">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-catalano&show_icons=true&theme=dark&locale=en&hide_border=true" alt="rc-most-used-languages" title="rc-most-used-languages" />
 </div>
 
 <br>
 
-<div align="center">
+<div align="right">
   <img src="https://github-readme-stats.vercel.app/api?username=raffaele-catalano&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" alt="rc-stats" title="rc-stats" />
 </div>
 
