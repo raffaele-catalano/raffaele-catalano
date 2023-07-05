@@ -14,7 +14,7 @@
 
 <br>
 
-<h3>Key Competences</h3>
+<h3 align="center">Key Competences</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vue,php,mysql,laravel,ps,github,vscode&perline=4" />
