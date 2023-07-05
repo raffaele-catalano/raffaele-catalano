@@ -17,7 +17,6 @@
 <div align="center">
   <h4>Key Competences</h4>
   [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vue,php,mysql,laravel,ps,github,vscode&perline=4)](https://skillicons.dev)
-  [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vue,php,mysql,laravel,ps,github,vscode&perline=4)(https://skillicons.dev)
 </div>
 
 <div align="center">
