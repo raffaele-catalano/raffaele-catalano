@@ -18,6 +18,9 @@
   <h4>Key Competences</h4>
   [![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vue,php,mysql,laravel,ps,github,vscode&perline=4)](https://skillicons.dev)
 </div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,vue,sass,mysql,php,laravel,cpp,cs,matlab,nodejs,vscode,github,netlify,blender,ps,linux)](https://skillicons.dev)
+
+---
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-catalano&show_icons=true&theme=dark&locale=en&layout=compact" align="center" alt="rc-most-used-languages" title="rc-most-used-languages" />
