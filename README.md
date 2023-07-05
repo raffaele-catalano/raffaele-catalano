@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-catalano&show_icons=true&theme=dark&locale=en&hide_border=true" align="left" alt="rc-most-used-languages" title="rc-most-used-languages" />
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-catalano&show_icons=true&theme=dark&locale=en&hide_border=true" align="center" alt="rc-most-used-languages" title="rc-most-used-languages" />
 <img src="https://github-readme-stats.vercel.app/api?username=raffaele-catalano&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" alt="rc-stats" title="rc-stats" />
 </div>
 
