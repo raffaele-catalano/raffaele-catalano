@@ -6,7 +6,7 @@
 🌱 I’m currently learning `HTML` - `CSS` - `JS` - `VUE` - `Vite` - `SCSS` - `PHP` - `Laravel` - `mySQL`   
 🔭 Soon I will start learning `Python` - `Typescript` - `NodeJs` - `Angular` - `GraphQL`
 
-<br>
+---
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=raffaele-catalano&color=blue&style=plastic&label=PROFILE+VIEWS" alt="rc-profile-view" title="rc-profile-view" align="center" />
