@@ -22,7 +22,7 @@
 <br>
 
 <div>
-<h5 align="right">Connect with me:</h5>
+<h4 align="right">Connect with me:</h4>
 <p align="right">
 <a href="https://www.linkedin.com/in/raffaele-catalano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francesco murro" height="20" width="30" /></a>
 </p>
