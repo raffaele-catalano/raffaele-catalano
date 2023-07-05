@@ -14,15 +14,12 @@
 
 <br>
 
-<div align="left">
-<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-catalano&show_icons=true&theme=dark&locale=en&hide_border=true" alt="rc-most-used-languages" title="rc-most-used-languages" />
+<div align="center">
+<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-catalano&show_icons=true&theme=dark&locale=en&hide_border=true" align="right" alt="rc-most-used-languages" title="rc-most-used-languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=raffaele-catalano&show_icons=true&theme=dark&count_private=true&hide_border=true" align="right" alt="rc-stats" title="rc-stats" />
 </div>
 
 <br>
-
-<div align="right">
-  <img src="https://github-readme-stats.vercel.app/api?username=raffaele-catalano&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" alt="rc-stats" title="rc-stats" />
-</div>
 
 <h5 align="right">Connect with me:</h5>
 <p align="right">
