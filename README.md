@@ -15,7 +15,7 @@
 <br>
 
 <div align="center">
-<img  src="https://komarev.com/ghpvc/?username=raffaele-catalano&label=Profile%20views&color=0e75b6&style=flat" align="center" alt="rc-most-used-languages" title="rc-most-used-languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-catalano&show_icons=true&theme=dark&locale=en&layout=compact" align="center" alt="rc-most-used-languages" title="rc-most-used-languages" />
 <img src="https://github-readme-stats.vercel.app/api?username=raffaele-catalano&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" alt="rc-stats" title="rc-stats" />
 </div>
 
@@ -24,7 +24,7 @@
 <div>
 <h4 align="right">Connect with me:</h4>
 <p align="right">
-<a href="https://www.linkedin.com/in/raffaele-catalano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francesco murro" height="20" width="30" /></a>
+<a href="https://www.linkedin.com/in/raffaele-catalano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raffaele-catalano" height="30" width="30" /></a>
 </p>
 </div>
 <!--
