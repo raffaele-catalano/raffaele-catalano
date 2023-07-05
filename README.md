@@ -16,16 +16,17 @@
 
 <div align="center">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-catalano&show_icons=true&theme=dark&locale=en&hide_border=true" align="left" alt="rc-most-used-languages" title="rc-most-used-languages" />
-<img src="https://github-readme-stats.vercel.app/api?username=raffaele-catalano&show_icons=true&theme=dark&count_private=true&hide_border=true" align="right" alt="rc-stats" title="rc-stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=raffaele-catalano&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" alt="rc-stats" title="rc-stats" />
 </div>
 
 <br>
 
+<div>
 <h5 align="right">Connect with me:</h5>
 <p align="right">
 <a href="https://www.linkedin.com/in/raffaele-catalano/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francesco murro" height="20" width="30" /></a>
 </p>
-
+</div>
 <!--
 **raffaele-catalano/raffaele-catalano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
