@@ -3,7 +3,7 @@
 <br>
 
 🇮🇹 I'm an Italian⚡Jr. Full Stack Web Developer  
-🌱 I’m currently learning `HTML` - `CSS` - `JS` - `VUE` - `Vite` - `SCSS` - `PHP` - `Laravel` - `mySQL`   
+🌱 My Actual Key Competences `HTML` - `CSS` - `Bootstrap` - `SASS` - `Javascript` - `Vue` - `PHP` - `Laravel` - `mySQL`   
 🔭 Soon I will start learning `Python` - `Typescript` - `NodeJs` - `Angular` - `GraphQL`
 
 ---
