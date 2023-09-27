@@ -3,8 +3,8 @@
 <br>
 
 🇮🇹 I'm an Italian⚡Jr. Full Stack Web Developer  
-🌱 My Actual Key Competences `HTML` - `CSS` - `Bootstrap` - `SASS` - `Javascript` - `Vue` - `PHP` - `Laravel` - `SQL`   
-🔭 Soon I will start learning `Python` - `NodeJs` - `Angular` - `GraphQL` - `Typescript`
+<!--🌱 My Actual Key Competences `HTML` - `CSS` - `Bootstrap` - `SASS` - `Javascript` - `Vue` - `PHP` - `Laravel` - `SQL`   
+🔭 Soon I will start learning `Python` - `NodeJs` - `Angular` - `GraphQL` - `Typescript`-->
 
 ---
 
