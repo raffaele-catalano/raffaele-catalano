@@ -17,7 +17,13 @@
 <h3 align="center">Key Competences</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,vue,php,mysql,laravel,ps,github,vscode&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,vue,sass,php,mysql,laravel,git,github,md&perline=4" />
+  </a>
+</p>
+<h3 align="center">Forthcoming Competences</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,nodejs,jquery,typescript,angular,aws,mongodb,postgres&perline=4" />
   </a>
 </p>
 
