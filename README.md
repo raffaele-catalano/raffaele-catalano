@@ -8,12 +8,6 @@
 
 ---
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=raffaele-catalano&color=blue&style=plastic&label=PROFILE+VIEWS" alt="rc-profile-view" title="rc-profile-view" align="center" />
-</div>
-
-<br>
-
 <h3 align="center">Key Competences</h3>
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,6 +20,12 @@
     <img src="https://skillicons.dev/icons?i=python,nodejs,jquery,typescript,angular,aws,mongodb,postgres&perline=4" />
   </a>
 </p>
+
+<br>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=raffaele-catalano&color=blue&style=plastic&label=PROFILE+VIEWS" alt="rc-profile-view" title="rc-profile-view" align="center" />
+</div>
 
 ---
 
