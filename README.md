@@ -17,7 +17,7 @@
 <h3 align="center">Forthcoming Competences</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,nodejs,jquery,typescript,angular,aws,mongodb,postgres&perline=4" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,typescript,angular,mongodb,postgres,jquery,aws&perline=4" />
   </a>
 </p>
 
