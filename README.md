@@ -2,7 +2,7 @@
 
 <br>
 
-🇮🇹 I'm an Italian⚡Jr. Full Stack Web Developer  
+🇮🇹 I'm an Italian⚡IT Developer
 <!--🌱 My Actual Key Competences `HTML` - `CSS` - `Bootstrap` - `SASS` - `Javascript` - `Vue` - `PHP` - `Laravel` - `SQL`   
 🔭 Soon I will start learning `Python` - `NodeJs` - `Angular` - `GraphQL` - `Typescript`-->
 
@@ -30,11 +30,12 @@
 ---
 
 <div align="center">
+  
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-catalano&show_icons=true&theme=dark&locale=en&layout=compact" align="center" alt="rc-most-used-languages" title="rc-most-used-languages" />
 <img src="https://github-readme-stats.vercel.app/api?username=raffaele-catalano&show_icons=true&theme=dark&locale=en" align="center" alt="rc-stats" title="rc-stats" /> -->
 
-  ![RC's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffaele-catalano&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffaele-catalano&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![RC's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffaele-catalano&bg_color=30,000000,ffd700&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffaele-catalano&bg_color=30,000000,ffd700&title_color=fff&text_color=fff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
