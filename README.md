@@ -33,9 +33,8 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-catalano&show_icons=true&theme=dark&locale=en&layout=compact" align="center" alt="rc-most-used-languages" title="rc-most-used-languages" />
 <img src="https://github-readme-stats.vercel.app/api?username=raffaele-catalano&show_icons=true&theme=dark&locale=en" align="center" alt="rc-stats" title="rc-stats" />
 
-  ![afiqiqmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=afiqiqmal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afiqiqmal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![afiqiqmal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=afiqiqmal)](https://github.com/anuraghazra/github-readme-stats)
+  ![RC's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffaele-catalano&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffaele-catalano&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
