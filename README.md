@@ -34,8 +34,8 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-catalano&show_icons=true&theme=dark&locale=en&layout=compact" align="center" alt="rc-most-used-languages" title="rc-most-used-languages" />
 <img src="https://github-readme-stats.vercel.app/api?username=raffaele-catalano&show_icons=true&theme=dark&locale=en" align="center" alt="rc-stats" title="rc-stats" /> -->
 
-![RC's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffaele-catalano&bg_color=40,000000,ffd700&title_color=000&text_color=000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffaele-catalano&bg_color=40,000000,ffd700&title_color=000&text_color=000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![RC's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffaele-catalano&bg_color=40,ffd700,000000&title_color=ffd700&text_color=ffd700)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raffaele-catalano&bg_color=40,ffd700,000000&title_color=ffd700&text_color=ffd700&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
