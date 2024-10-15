@@ -11,15 +11,15 @@
 <h3 align="center">Key Competences</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,vue,sass,php,mysql,laravel,git,github,md&perline=4" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,vue,sass,php,mysql,sqlite,laravel,git,bitbucket,npm,bash,powershell,md&perline=4" />
   </a>
-</p>
+<!-- </p>
 <h3 align="center">Forthcoming Competences</h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,nodejs,typescript,angular,mongodb,postgres,jquery,aws&perline=4" />
   </a>
-</p>
+</p> -->
 
 <br>
 
@@ -32,6 +32,11 @@
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=raffaele-catalano&show_icons=true&theme=dark&locale=en&layout=compact" align="center" alt="rc-most-used-languages" title="rc-most-used-languages" />
 <img src="https://github-readme-stats.vercel.app/api?username=raffaele-catalano&show_icons=true&theme=dark&locale=en" align="center" alt="rc-stats" title="rc-stats" />
+
+  ![afiqiqmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=afiqiqmal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afiqiqmal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![afiqiqmal's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=afiqiqmal)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
 
 ---
